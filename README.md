@@ -1,4 +1,4 @@
-# Build and the run
+# Build and Run the Quarkus Application
 
 ## JVM Mode 
 ./mvnw -DskipTests clean package
